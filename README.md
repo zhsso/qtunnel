@@ -14,15 +14,9 @@
 
 qtunnel is writen in [golang 1.3.1](http://golang.org/dl/), after building it can run on almost every OS.
 
-### Build
+### Install
 
-To build `qtunnel`
-
-`$ make`
-
-To test `qtunnel`
-
-`$ make test`
+`$ go get github.com/zhsso/qtunnel/qtunnel`
 
 ### Usage
 
